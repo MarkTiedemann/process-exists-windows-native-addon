@@ -1,0 +1,9 @@
+{
+  "os": [
+    "win32"
+  ],
+  "devDependencies": {
+    "node-gyp": "3.8.0",
+    "prettier": "1.14.3"
+  }
+}

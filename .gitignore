@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+yarn.lock
+build
+bench.pid
+*.exe
+*.obj
