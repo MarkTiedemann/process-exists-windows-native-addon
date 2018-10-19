@@ -1,3 +1,5 @@
+#define WIN32_LEAN_AND_MEAN 1
+
 #include <node_api.h>
 #include <windows.h>
 #include <tlhelp32.h>
