@@ -1,4 +1,4 @@
-const addon = require('./build/Release/addon')
+const addon = require('bindings')('addon')
 
 if (process.argv.length !== 3) {
   console.error('Usage: native.exe <pid|name>')
